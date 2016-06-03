@@ -1,0 +1,18 @@
+//		javascript code
+//		script_name:
+//
+//		author:
+//		description:
+//
+
+init(); 
+setTempo(120)
+
+fitMedia(Y31_DRUMPAD_1, 1, 1, 20)
+fitMedia(Y31_SYNTH_HARP_1, 2, 5, 20)
+fitMedia(YG_NEW_HIP_HOP_CHOIR_1, 3, 1, 20)
+fitMedia(Y59_CLAP_2, 4, 1, 20)
+
+
+
+finish(); 
